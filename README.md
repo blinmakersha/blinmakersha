@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying Information Systems and Programming at **Sirius College**
 
-- 🔭 I'm currently working on learning HTML, CSS and databases such as Postrgres and MySql, also expanding my knowledge of web frameworks such as Django and Flask
+- 🔭 I'm currently working on learning HTML, CSS and databases such as PostgresSQL and MySql, also expanding my knowledge of web frameworks such as Django and Flask
 
 - 📫 How to reach me **valentinakulg@gmail.com**
 
