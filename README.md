@@ -1,9 +1,9 @@
 <h1 align="center">hey 👋, I'm Valentina</h1>
-<h3 align="center">A 21-year-old developer from Russia</h3>
+<h3 align="center">A 22-year-old developer from Russia</h3>
 
 - 🌱 I’m currently studying Information Systems and Programming at **Sirius College**
 
-- 🔭 I'm currently working on learning JS and TS, also expanding my knowledge of web frameworks such as FastAPI and React
+- 🔭 I'm currently working on learning TS, also expanding my knowledge of web frameworks such as React
 
 - 📫 How to reach me **valentinakulg@gmail.com**
 
